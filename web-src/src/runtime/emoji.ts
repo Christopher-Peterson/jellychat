@@ -58,7 +58,6 @@ export const emojiCatalog: EmojiCatalogItem[] = [
   { emoji: "💯", name: "one hundred", aliases: ["hundred", "100"], tags: ["perfect", "exactly", "agreed", "one hundred", "hundred", "100"] },
   { emoji: "😵‍💫", name: "face with spiral eyes", aliases: ["spiral eyes", "confused"], tags: ["spiral", "confused", "woozy", "wacko"] },
   { emoji: "🪦", name: "headstone", aliases: ["rip", "tombstone"], tags: ["dead", "rip", "tombstone", "headstone", "grave"] },
-  { emoji: "🇫", name: "f", aliases: ["regional indicator f"], tags: ["dead", "rip", "respects", "f", "press f"] },
   { emoji: "🏳️‍🌈", name: "rainbow flag", aliases: ["lgbt flag"], tags: ["rainbow", "flag", "gay", "queer", "lgbt", "gay", "queer"] },
   { emoji: "🇦🇱", name: "albania flag", aliases: ["albania"], tags: ["albania", "slenderbag", "sherds"] },
   { emoji: "💋", name: "kiss mark", aliases: ["lips", "kiss"], tags: ["kiss", "smooch", "love"] },
