@@ -36,7 +36,6 @@ export const emojiCatalog: EmojiCatalogItem[] = [
   { emoji: "🤯", name: "exploding head", aliases: ["mind blown"], tags: ["shock", "wow", "surprised", "amazed"] },
   { emoji: "😍", name: "smiling face with heart eyes", aliases: ["heart eyes", "love face"], tags: ["love", "happy", "cute", "wow"] },
   { emoji: "🤠", name: "cowboy hat face", aliases: ["tony"], tags: ["cowboy", "hat", "happy", "smile", "milf hunter"] },
-
   { emoji: "🍺", name: "beer mug", aliases: ["beer", "drink"], tags: ["beer", "drink", "sip", "cheers"] },
   { emoji: "🍻", name: "beer mugs", aliases: ["beers", "drinks", "toast", "cheers"], tags: ["beer", "drink", "sip", "cheers"] },
   { emoji: "👀", name: "eyes", aliases: ["watching"], tags: ["look", "watch", "attention", "sus"] },
@@ -59,10 +58,8 @@ export const emojiCatalog: EmojiCatalogItem[] = [
   { emoji: "😵‍💫", name: "face with spiral eyes", aliases: ["spiral eyes", "confused"], tags: ["spiral", "confused", "woozy", "wacko"] },
   { emoji: "🪦", name: "headstone", aliases: ["rip", "tombstone"], tags: ["dead", "rip", "tombstone", "headstone", "grave"] },
   { emoji: "🏳️‍🌈", name: "rainbow flag", aliases: ["lgbt flag"], tags: ["rainbow", "flag", "gay", "queer", "lgbt", "gay", "queer"] },
-  { emoji: "🇦🇱", name: "albania flag", aliases: ["albania"], tags: ["albania", "slenderbag", "sherds"] },
   { emoji: "💋", name: "kiss mark", aliases: ["lips", "kiss"], tags: ["kiss", "smooch", "love"] },
   { emoji: "💥", name: "collision", aliases: ["boom", "explosion"], tags: ["boom", "bang", "explosion"] },
-  
   { emoji: "👍", name: "thumbs up", aliases: ["like", "yes"], tags: ["agree", "good", "ok", "nice"] },
   { emoji: "👏", name: "clapping hands", aliases: ["clap"], tags: ["applause", "good", "bravo", "hype"] },
   { emoji: "🎉", name: "party popper", aliases: ["party"], tags: ["celebrate", "win", "happy", "fun"] },
